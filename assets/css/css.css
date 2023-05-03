@@ -1,0 +1,268 @@
+/* header */
+*{
+	font-family: 'Teko', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: orange;
+}
+.fs-21{
+	font-size: 21px;
+}
+.w-26{
+    width: 26%!important;
+}
+.px-12{
+    padding: 0px 12px;
+}
+.pl-40{
+    padding-left: 40px;
+}
+.px-11{
+    padding-left: 11px;
+}
+.py-40{
+    padding: 40px 0px;
+}
+.font-40{
+    font-size: 40px;
+}
+.pb-30{
+    padding-bottom: 30px;
+}
+.ct{
+    bottom: 50%;
+    text-align: left;
+}
+.fs-40{
+    font-size: 50px;
+    font-weight: 500;
+    letter-spacing: 4px;
+}
+.fs-22{
+	font-size: 20px;
+}
+.text-black{
+    color: #ffffff;
+}
+.headings{
+    font-size: 53px;
+    font-weight: 700;
+    color: #ed7810;
+    letter-spacing: 3px;
+}
+
+/* service */
+
+.w-100p{
+    width: 100px;
+}
+.my-40{
+   margin: 40px 0px; 
+}
+.my-50{
+    margin: 50px 0px;
+}
+.mt-34{
+    margin-top: 34px;
+}
+.py-60{
+    padding: 60px 0px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.service-btn{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #ef7f1b;
+    padding: 11px 48px;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 3px;
+}
+.service-btn:hover{
+    background-color: #2c3a5f;
+}
+.bg-gray{
+    background-color: gainsboro;
+}
+.fs-20{
+    padding-top: 12px;
+    text-align: center;
+}
+.border-b{
+    margin-bottom: 12px;
+    border: 2px solid #000000;
+
+}
+
+/* welcome  */
+
+
+.fs-50{
+    font-size: 50px;
+    font-weight: 700;
+}
+.blue{
+    color: #2c3a5f;
+}
+.fs-30{
+    color: #ef7f1b;
+    font-size: 40px;
+    font-weight: 300;
+}
+.fs-18{
+	font-weight: 100;
+    font-size: 18px;
+}
+
+/* video */
+
+.b-2{
+    border: 10px solid black;
+}
+
+.fs-21{
+	text-align: center;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.dark-box{
+	text-align: center;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+/* footer */
+
+.footer-bg{
+    background-color: #212529a3;
+}
+.font-s{
+    font-size: 22px;
+    color: #000000;
+	letter-spacing: 1px;
+}
+.last-f{
+    background-color: #0807077d;
+}
+
+/* about us */
+
+.f-80{
+	font-size: 80px;
+    letter-spacing: 4px;
+	color: #000000;
+}
+.py-100{
+	padding: 100px 0px;
+	background-image: url(../img/about/about-b.jpg);
+}
+.font-20{
+	font-size: 20px;
+    color: #464444;
+}
+.font-40{
+	font-size: 40px;
+}
+.font-31{
+	font-size: 31px;
+}
+.font-90{
+	font-size: 90px;
+}
+.font-25{
+	font-size: 25px;
+}
+
+
+/*  services */
+
+
+.py-20{
+	padding: 20px 0px;
+}
+.service-b{
+	border: 2px solid #000000;
+    border-radius: 10%;
+}
+.img-b{
+	border-radius: 10%;
+}
+.py-30{
+	padding: 30px 0px;
+}
+
+/*  contact  */
+
+
+.my-form {
+    color: #305896;
+}
+.my-form .btn-default {
+    background-color: #305896;
+    color: #fff;
+    border-radius: 0;
+}
+.my-form .btn-default:hover {
+    background-color: #4498C6;
+    color: #fff;
+}
+.my-form .form-control {
+    border-radius: 0;
+}
+.pb-30{
+	padding-bottom: 30px;
+}
+
+
+/*  project */
+
+.font-70{
+	font-size: 70px;
+    letter-spacing: 3px;
+}
+.p-btn{
+	text-decoration: none;
+    color: #000000;
+}
+.py-15{
+	padding: 15px 0px;
+}
+.p-border{
+	border: 3px solid #000000;
+    padding: 4px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+.dropdown-a{
+	color: #000000;
+    text-decoration: none;
+}
+
+/*  youtube  */
+
+.youtube{
+    background-color: red;
+    padding: 10px;
+    border-radius: 50%;
+}
